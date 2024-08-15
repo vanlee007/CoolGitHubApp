@@ -12,6 +12,7 @@ struct GitHubAppApp: App {
     var body: some Scene {
         WindowGroup {
             HomeScreen()
+            // Comment
         }
     }
 }
