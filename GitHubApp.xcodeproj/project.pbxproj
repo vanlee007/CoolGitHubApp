@@ -14,6 +14,7 @@
 		ECF04CAE2C6E277600252797 /* ImagesScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF04CAD2C6E277600252797 /* ImagesScreen.swift */; };
 		ECF04CB02C6E277F00252797 /* TextScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF04CAF2C6E277F00252797 /* TextScreen.swift */; };
 		ECF04CB42C6E2CD300252797 /* TwoImagesScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF04CB32C6E2CD300252797 /* TwoImagesScreen.swift */; };
+		ECF04CB22C6E2C1C00252797 /* TextAndImageScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF04CB12C6E2C1C00252797 /* TextAndImageScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		ECF04CAD2C6E277600252797 /* ImagesScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesScreen.swift; sourceTree = "<group>"; };
 		ECF04CAF2C6E277F00252797 /* TextScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextScreen.swift; sourceTree = "<group>"; };
 		ECF04CB32C6E2CD300252797 /* TwoImagesScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoImagesScreen.swift; sourceTree = "<group>"; };
+		ECF04CB12C6E2C1C00252797 /* TextAndImageScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextAndImageScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				ECF04CAD2C6E277600252797 /* ImagesScreen.swift */,
 				ECF04CAF2C6E277F00252797 /* TextScreen.swift */,
 				ECF04CB32C6E2CD300252797 /* TwoImagesScreen.swift */,
+				ECF04CB12C6E2C1C00252797 /* TextAndImageScreen.swift */,
 			);
 			path = GitHubApp;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				ECF04CB02C6E277F00252797 /* TextScreen.swift in Sources */,
 				ECF04CB42C6E2CD300252797 /* TwoImagesScreen.swift in Sources */,
 				ECF04CA22C6E25D200252797 /* HomeScreen.swift in Sources */,
+				ECF04CB22C6E2C1C00252797 /* TextAndImageScreen.swift in Sources */,
 				ECF04CAE2C6E277600252797 /* ImagesScreen.swift in Sources */,
 				ECF04CA02C6E25D200252797 /* GitHubAppApp.swift in Sources */,
 			);

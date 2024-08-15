@@ -24,6 +24,10 @@ struct HomeScreen: View {
                 
                 NavigationLink(destination: TwoImagesScreen()) {
                     Text("View Two Images")
+
+                NavigationLink(destination: TextAndImageScreen()) {
+                    Text("Read Text View Image")
+
                 }
                 
             }
