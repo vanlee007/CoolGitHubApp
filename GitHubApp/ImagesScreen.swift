@@ -14,6 +14,7 @@ struct ImagesScreen: View {
             
             
             Image(systemName: "touchid")
+                .font(.largeTitle)
                 .frame(maxWidth: 200, maxHeight: 200)
                 .padding()
             
