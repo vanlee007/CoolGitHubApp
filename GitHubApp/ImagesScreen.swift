@@ -9,7 +9,17 @@ import SwiftUI
 
 struct ImagesScreen: View {
     var body: some View {
-        Text("Images Screen")
+        
+        VStack {
+            
+            
+            Image(systemName: "touchid")
+                .frame(maxWidth: 200, maxHeight: 200)
+                .padding()
+            
+            Text("See an image")
+            
+        }
     }
 }
 
