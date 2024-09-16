@@ -31,6 +31,11 @@ struct HomeScreen: View {
 
                 }
                 
+                NavigationLink(destination: ReadShortText()) {
+                    Text("Read Short Text")
+
+                }
+                
             }
             
         }
