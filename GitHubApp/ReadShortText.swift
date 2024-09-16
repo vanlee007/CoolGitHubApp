@@ -9,9 +9,11 @@ import SwiftUI
 
 struct ReadShortText: View {
     
+    @State var textToRead = "Some short text to be read"
+    
     var body: some View {
         
-        Text("Some short text to be read")
+        Text(textToRead)
             .padding()
         
         
