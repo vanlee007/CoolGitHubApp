@@ -36,6 +36,11 @@ struct HomeScreen: View {
 
                 }
                 
+                NavigationLink(destination: ThreeLinesOfTextScreen()) {
+                    Text("Read Three Lines")
+
+                }
+                
             }
             
         }

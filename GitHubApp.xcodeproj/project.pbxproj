@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC5990FE2C98479B00049CE8 /* ThreeLinesOfTextScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC5990FD2C98479B00049CE8 /* ThreeLinesOfTextScreen.swift */; };
 		EC895C052C98189C00E4E5D5 /* ReadShortText.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC895C042C98189C00E4E5D5 /* ReadShortText.swift */; };
 		ECF04CA02C6E25D200252797 /* GitHubAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF04C9F2C6E25D200252797 /* GitHubAppApp.swift */; };
 		ECF04CA22C6E25D200252797 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF04CA12C6E25D200252797 /* HomeScreen.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC5990FD2C98479B00049CE8 /* ThreeLinesOfTextScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeLinesOfTextScreen.swift; sourceTree = "<group>"; };
 		EC895C042C98189C00E4E5D5 /* ReadShortText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadShortText.swift; sourceTree = "<group>"; };
 		ECF04C9C2C6E25D200252797 /* GitHubApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHubApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECF04C9F2C6E25D200252797 /* GitHubAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubAppApp.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				ECF04C9F2C6E25D200252797 /* GitHubAppApp.swift */,
+				EC5990FD2C98479B00049CE8 /* ThreeLinesOfTextScreen.swift */,
 				ECF04CA12C6E25D200252797 /* HomeScreen.swift */,
 				ECF04CA32C6E25D400252797 /* Assets.xcassets */,
 				ECF04CA52C6E25D400252797 /* Preview Content */,
@@ -156,6 +159,7 @@
 				ECF04CB42C6E2CD300252797 /* TwoImagesScreen.swift in Sources */,
 				ECF04CA22C6E25D200252797 /* HomeScreen.swift in Sources */,
 				EC895C052C98189C00E4E5D5 /* ReadShortText.swift in Sources */,
+				EC5990FE2C98479B00049CE8 /* ThreeLinesOfTextScreen.swift in Sources */,
 				ECF04CB22C6E2C1C00252797 /* TextAndImageScreen.swift in Sources */,
 				ECF04CAE2C6E277600252797 /* ImagesScreen.swift in Sources */,
 				ECF04CA02C6E25D200252797 /* GitHubAppApp.swift in Sources */,
