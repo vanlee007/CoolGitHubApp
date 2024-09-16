@@ -28,12 +28,14 @@ struct HomeScreen: View {
 
                 NavigationLink(destination: TextAndImageScreen()) {
                     Text("Read Text View Image")
-
                 }
                 
                 NavigationLink(destination: ReadShortText()) {
                     Text("Read Short Text")
-
+                }
+                
+                NavigationLink(destination: ThreeLinesOfTextScreen()) {
+                    Text("Read Three Lines")
                 }
                 
             }
